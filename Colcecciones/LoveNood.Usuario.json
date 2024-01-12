@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65a025b1ab989f9588334fff"
+  },
+  "nombre": "Admin",
+  "contraseña": "Admin",
+  "tipo": "admin"
+},
+{
+  "_id": {
+    "$oid": "65a05dab04df53fb347ec457"
+  },
+  "nombre": "Erik",
+  "contraseña": "Erik123456",
+  "tipo": "Clientes"
+},
+{
+  "_id": {
+    "$oid": "65a16f78ab989f9588335000"
+  },
+  "nombre": "Lucas",
+  "contraseña": "Lucas12345",
+  "tipo": "Clientes"
+}]
